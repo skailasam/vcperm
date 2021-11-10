@@ -13,3 +13,7 @@ From Main, call a module for each object. In the module set all needed permisson
 - wrong datatypes from nested objects in foreach definitions
 - how to get the ressource and data in the module in sync
 
+## Links
+https://www.terraform.io/docs/language/functions/setproduct.html#finding-combinations-for-for_each
+https://www.terraform.io/docs/language/meta-arguments/for_each.html
+https://www.terraform.io/docs/language/expressions/for.html
