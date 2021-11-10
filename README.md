@@ -10,5 +10,6 @@ It should be possible to have mor then one permisson on a object (ex. user1 has 
 From Main, call a module for each object. In the module set all needed permissons on this object. 
 
 ## Issues
-wrong datatypes from nested objects in foreach definitions
+- wrong datatypes from nested objects in foreach definitions
+- how to get the ressource and data in the module in sync
 
