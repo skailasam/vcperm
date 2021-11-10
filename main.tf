@@ -1,3 +1,5 @@
+# OURVCENTER.LOCAL = our vCenter FQDN
+# OURVCUSER = our vCenter User
 
 terraform {
   required_providers {

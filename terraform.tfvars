@@ -1,3 +1,5 @@
+# OURAD = our Active Directory
+
 objects = {
 
   obj1 = {
